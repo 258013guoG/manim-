@@ -1,0 +1,32 @@
+# Python 字节码文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 分发/打包文件
+*.egg-info/
+dist/
+build/
+
+# 虚拟环境
+venv/
+env/
+
+# Manim 生成的媒体文件
+media/
+
+# 备份文件
+backup_tests/
+
+# 压缩包
+*.zip
+
+# 缓存文件夹
+cache/
+
+# IDE 文件
+.vscode/
+.idea/
+
+# Trae AI 文件
+.trae/

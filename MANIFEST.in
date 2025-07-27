@@ -1,0 +1,2 @@
+include manim_adaptive_layout/README.md
+recursive-include manim_adaptive_layout/examples *.py
